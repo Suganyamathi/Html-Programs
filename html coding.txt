@@ -5,12 +5,81 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scope Database</title>
+    <link rel = "stylesheet" href="style.css">
 </head>
+
 <body>
    
 <img style="width:500px" src="./Scopedatabase logo.png" alt="image not available">
-<a href="https://sdbindex.com/"target="_blank">
-<b><big>About us</big></b>
-</a>
+
+<label class="button2"><side><b>Title suggestion</b><button>submit</button></lable></side><br/><br/>    
+
+<fieldset>
+    <legend><strong>Welcome To Scope Database</strong></legend>
+    <em>Scope Database is an Indian organization, formed by a group of researchers.</em> Scope Database is no way connected with any other journal metrics analysis companies.
+    <em>Scope Database is a free </em>public web search engine for academic publications and literature, developed by a group of Scientific researchers. Scope Database launched in 2008, and calculated metrics manually and by 2018 launched globally through www.sdbindex.com,the tool features an entirely new data structure and search engine using semantic user interface search technologies.<br/>
+     A Computer Database is defined <mark>'open access'</mark> when there are no financial, legal or technical barriers to accessing it - that is to say when anyone can read, download, copy, distribute, print, search for and search within the information, or use it in education or in any other way within the legal agreements.
+Open access is a publishing model for scholarly communication that makes research information available to readers at no cost, as opposed to the traditional subscription model in which readers have access to scholarly information by paying a subscription (usually via libraries).<a href="https://sdbindex.com/"target="_blank">
+    <b>For more information</b>
+    </a>
+
+</fieldset>
+<main>
+</main></br></br>
+<label class="lb">Sources Lookup</label>
+<label class="lb">  Recently added Sources</label>
+    <label class="lb">Affiliation Search</label>
+            <label class="lb">Advisory Board</label>
+        <label class="lb"> Author Search</label></br></br></br></br>
+                <label class="lb"> Reference Search</label></br></br></br>
+  
+  
+<div><main><aside> <b><big></big>Subject</big></b></aside></main>
+<select>
+    <option value="a">select</option>
+    <option value="Mech">Mechanical Engineering</option>
+    <option value="a">Civil Engineering</option>
+    <option value="a">Computer Engineering</option>
+    <option value="a">Electronic Engineering</option>
+    <option value="a">Electrical Engineering</option>
+</select>
+</div>
+<br/><br/>
+<end>
+    <table border="1" cellspacing="2">
+    <tr>
+        <th colspan="2">Explore Research Analytics</th></tr>
+        <tr><th>Article indexed</th>
+        <td>106138</td>
+    </tr>
+    <tr>
+        <th>Sources</th><td>478</td>
+    </tr>
+    
+    <tr>
+<th>
+    Citation
+</th> <td>12868</td>
+
+    </tr>
+</table></label>
+<label class="lbl" id="label-design">
+<br/><b><big></big>Area of Interest</big></b></label>
+<form>
+    <input type="radio"
+    <label for ="radio">Enginnering</label><br/>
+    <input type="radio" <label for ="radio">Management</label><br/> 
+    <input type="radio" <label for ="radio">Arts & Science</label><br/>
+    <input type="radio" <label for ="radio">Sports</label>
+
+    
+</form>
+<br/><label class="lbl"><b>Contact form</b></label>
+<form>
+    <input type="text" required placeholder="Enter your queries">
+    <button type="submit">Send Message</button>
+</form>
+</form></br>
+
 </body>
 </html>
